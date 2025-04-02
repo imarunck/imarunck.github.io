@@ -3,7 +3,7 @@ layout: post
 title: ಸಮಯ ಪ್ರಯಾಣ!
 date: 2020-06-06
 categories: blog kannada article
-author: Arun C Kallappanavar
+author: arun
 image: /assets/images/timetravel.jpeg
 ---
 ![]({{page.image | relative_url}})

@@ -3,9 +3,10 @@ layout: post
 title: Naming the “Glyphs”? -Type Design
 date: 2024-07-13
 categories: blog english article
-author: Arun C Kallappanavar
+author: arun
 image1: /assets/images/glyph1.png
 image2: /assets/images/glyph2.png
+tag: Type Design
 ---
 ## Why shouldn’t we use dots When naming the “Glyphs”? in python scripting.
 

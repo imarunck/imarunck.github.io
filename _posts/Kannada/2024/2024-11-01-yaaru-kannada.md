@@ -3,7 +3,8 @@ layout: post
 title: ಯಾರು ಕನ್ನಡ?
 date: 2024-11-01
 categories: blog kannada poem
-author: Arun C Kallappanavar
+author: arun
+tag: ಕವಿತೆ
 ---
 <center>
 ಮನದಲಿ ಮಾತಾಡೋ ಮಾತು ಕನ್ನಡ.<br>

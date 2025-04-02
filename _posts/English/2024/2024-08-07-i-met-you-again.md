@@ -3,7 +3,7 @@ layout: post
 title: I met you again.
 date: 2024-08-07
 categories: blog english poem
-author: Arun C Kallappanavar
+author: arun
 tag: poem
 ---
 

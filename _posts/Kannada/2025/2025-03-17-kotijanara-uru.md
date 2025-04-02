@@ -3,7 +3,8 @@ layout: post
 title: ಕೋಟಿಜನರ ಊರು
 date: 2025-03-17
 categories: blog kannada poem
-author: Arun C Kallappanavar
+author: arun
+tag: ಕವಿತೆ
 ---
 ಕೋಟಿಜನರ ಊರಲ್ಲಿ ಒಂಟಿಯಾಗಿರುವೆ,<br>
 ಎಷ್ಟು ಜನ ಈ  ಊರಲ್ಲಿ ಯಾರು  ನನ್ನೊರು ?<br>
