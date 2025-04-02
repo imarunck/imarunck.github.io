@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naming the “Glyphs”? -Type Design
+title: Naming the “Glyphs”?
 date: 2024-07-13
 categories: blog english article
 author: arun
