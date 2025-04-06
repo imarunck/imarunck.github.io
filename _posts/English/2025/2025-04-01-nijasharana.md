@@ -6,7 +6,7 @@ categories: blog english
 author: arun
 tag: kannada projects
 ---
-## [nijasharana.com](http://nijasharana.com/) – A Tribute to Ambigara Chowdayya
+## [nijasharana.com](https://nijasharana.com/) – A Tribute to Ambigara Chowdayya
 Hello everyone,
 
 I’m **Arun C Kallappanavar**, and I’m excited to share with you the journey of creating [**nijasharana.com**](https://nijasharana.com/), a dedicated website that celebrates and archives the life, vachanas, and values of **Vachanakaara Nijasharana Ambigara Chowdayya**.
@@ -29,7 +29,7 @@ This project was born out of respect for his revolutionary thoughts, deep wisdom
 
 ### 📅 **21st January 2025**
 
--   **Official Release** of [nijasharana.com](http://nijasharana.com) 🎉
+-   **Official Release** of [nijasharana.com](https://nijasharana.com) 🎉
 -   Added:
     -   Vachanas with source credits
     -   Gallery section
