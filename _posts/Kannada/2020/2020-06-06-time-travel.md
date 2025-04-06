@@ -5,7 +5,7 @@ date: 2020-06-06
 categories: blog kannada article
 author: arun
 image: /assets/images/timetravel.jpeg
-tag: Story Time
+tag: story time
 ---
 ![]({{page.image | relative_url}})
 

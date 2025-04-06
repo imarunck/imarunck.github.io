@@ -6,7 +6,7 @@ categories: blog english article
 author: arun
 image1: /assets/images/glyph1.png
 image2: /assets/images/glyph2.png
-tag: Type Design
+tag: type design
 ---
 ## Why shouldn’t we use dots When naming the “Glyphs”? in python scripting.
 

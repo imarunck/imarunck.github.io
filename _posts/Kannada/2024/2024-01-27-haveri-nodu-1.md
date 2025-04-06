@@ -5,7 +5,7 @@ date: 2024-01-27
 categories: blog kannada article
 author: Arun C Kallappanavar
 image: /assets/images/haverinodu1.jpg
-tag: Kannada Projects
+tag: kannada projects
 ---
 ## ಹಾವೇರಿ ನೋಡು ಎಂಬುದು ಒಂದು ಕಾಫಿ ಟೇಬಲ್ ಪುಸ್ತಕ.
 <center>
