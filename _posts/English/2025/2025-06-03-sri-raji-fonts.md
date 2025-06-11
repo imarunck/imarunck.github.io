@@ -4,6 +4,7 @@ title: Hosting Sri Raju Fonts on GitHub
 date: 2025-06-03
 categories: blog english
 author: arun
+image: /assets/images/sriraju.jpg
 tag: [type design, kannada projects]
 ---
 ## Hosting Sriraju Fonts on GitHub – A Step Toward Kannada Font Sustainability

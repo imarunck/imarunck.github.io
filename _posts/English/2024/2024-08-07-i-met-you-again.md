@@ -4,6 +4,7 @@ title: I met you again.
 date: 2024-08-07
 categories: blog english poem
 author: arun
+image: /assets/images/again.jpg
 tag: poem
 ---
 

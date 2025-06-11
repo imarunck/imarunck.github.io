@@ -5,6 +5,7 @@ date: 2025-04-01
 categories: blog english
 author: arun
 tag: kannada projects
+image: /assets/images/nijasharana.jpg
 ---
 ## [nijasharana.com](https://nijasharana.com/) – A Tribute to Ambigara Chowdayya
 Hello everyone,

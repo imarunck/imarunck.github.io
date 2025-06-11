@@ -4,6 +4,7 @@ title: Kannada Font Library
 date: 2024-11-12
 author: arun
 categories: blog english
+image: /assets/images/kfl.jpg
 tag: kannada projects
 ---
 # Kannada Font Library – A Platform I Built for Our Language
