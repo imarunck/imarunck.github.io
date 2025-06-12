@@ -3,7 +3,7 @@ layout: post
 title: ನಾನು ಮತ್ತು ಗಾಂಧಿ
 date: 2025-06-11
 categories: blog kannada article
-author: Arun C Kallappanavar
+author: arun
 image: /assets/images/gandhi.jpg
 tag: kannada
 ---

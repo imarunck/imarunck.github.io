@@ -3,7 +3,7 @@ layout: post
 title: ಹಾವೇರಿ ನೋಡು ಭಾಗ-೧
 date: 2024-01-27
 categories: blog kannada article
-author: Arun C Kallappanavar
+author: arun
 image: /assets/images/haverinodu2.jpg
 image1: /assets/images/haverinodu1.jpg
 tag: kannada projects
