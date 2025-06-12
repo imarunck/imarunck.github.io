@@ -4,6 +4,7 @@ title: Who am I?
 date: 2024-10-28
 categories: blog english poem
 author: arun
+image: /assets/images/dust.jpg
 tag: poem
 ---
  

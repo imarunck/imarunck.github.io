@@ -4,6 +4,7 @@ title: ಯಾರು ಕನ್ನಡ?
 date: 2024-11-01
 categories: blog kannada poem
 author: arun
+image: /assets/images/yaaru.jpg
 tag: ಕವಿತೆ
 ---
 <center>

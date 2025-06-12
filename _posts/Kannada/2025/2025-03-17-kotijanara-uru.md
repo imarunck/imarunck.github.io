@@ -4,6 +4,7 @@ title: ಕೋಟಿಜನರ ಊರು
 date: 2025-03-17
 categories: blog kannada poem
 author: arun
+image: /assets/images/kooti.jpg
 tag: ಕವಿತೆ
 ---
 ಕೋಟಿಜನರ ಊರಲ್ಲಿ ಒಂಟಿಯಾಗಿರುವೆ,<br>

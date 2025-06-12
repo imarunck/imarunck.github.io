@@ -4,6 +4,7 @@ title: ಆತ್ಮೀಯತೆಯ ಭಾವ
 date: 2023-11-17
 categories: blog kannada article
 author: arun
+image: /assets/images/atmiyate.jpg
 tag: story time
 ---
 

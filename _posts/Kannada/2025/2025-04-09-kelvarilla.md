@@ -4,6 +4,7 @@ title: ಕೇಳ್ವರಿಲ್ಲ
 date: 2025-04-09
 categories: blog kannada poem
 author: arun
+image: /assets/images/kelvarilla.jpg
 tag: ಕವಿತೆ
 ---
 ನನ ಕೇಳ್ವರಿಲ್ಲ ನನ ಕೇಳ್ವರಿಲ್ಲ<br>

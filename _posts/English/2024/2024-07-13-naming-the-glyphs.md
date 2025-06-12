@@ -4,6 +4,7 @@ title: Naming the “Glyphs”?
 date: 2024-07-13
 categories: blog english article
 author: arun
+image: /assets/images/dot.jpg
 image1: /assets/images/glyph1.png
 image2: /assets/images/glyph2.png
 tag: type design
