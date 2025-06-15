@@ -73,7 +73,14 @@ permalink: /pc-wallpapers/
 </div>
 
 <div class="wallpaper-box">
+  <img class="wallpaper-img" src="https://firebasestorage.googleapis.com/v0/b/all-projects-5bb9d.appspot.com/o/imarunck%2Farunck.com%2Fpc%20wallpapers%2FPC%20Wallpaper_Dust%20arunck.com.jpg?alt=media&token=5862b847-323c-4e59-878f-34f9e7a645ff" alt="Bhishma Wallpaper 2 Preview">
+  <div class="wallpaper-desc">cosmic ocean and consciousness (1920 X 1080)</div>
+  <a class="download-btn" href="https://firebasestorage.googleapis.com/v0/b/all-projects-5bb9d.appspot.com/o/imarunck%2Farunck.com%2Fpc%20wallpapers%2FPC%20Wallpaper_Dust%20arunck.com.jpg?alt=media&token=5862b847-323c-4e59-878f-34f9e7a645ff" download>Download</a>
+</div>
+
+
+<div class="wallpaper-box">
   <img class="wallpaper-img" src="https://firebasestorage.googleapis.com/v0/b/all-projects-5bb9d.appspot.com/o/imarunck%2Farunck.com%2Fpc%20wallpapers%2FPC%20Wallpaper_Appu%20arunck.com.jpg?alt=media&token=0b28088a-1faf-4620-8dd5-54c5cb2307e9" alt="Bhishma Wallpaper 2 Preview">
-  <div class="wallpaper-desc">ಹೀಳಿಬಿಡು  (1920 X 1080)</div>
+  <div class="wallpaper-desc">ಅಪ್ಪು (1920 X 1080)</div>
   <a class="download-btn" href="https://firebasestorage.googleapis.com/v0/b/all-projects-5bb9d.appspot.com/o/imarunck%2Farunck.com%2Fpc%20wallpapers%2FPC%20Wallpaper_Appu%20arunck.com.jpg?alt=media&token=0b28088a-1faf-4620-8dd5-54c5cb2307e9" download>Download</a>
 </div>
