@@ -57,10 +57,10 @@ That small note meant a lot to me.
 ## Acknowledgments
 Font Design: Nagalingappa Badiger<br>
 Publisher: Sugata Srinivasaraju<br>
-Preservation & GitHub Repo: Arun C Kallappanavar<br>
+Preservation & GitHub Repo: Arun CK<br>
 
 Thank you for reading.<br>
-— Arun C Kallappanavar<br>
+— Arun CK<br>
 🐙 [github.com/imarunck](https://github.com/imarunck)
 
 <a href="https://github.com/imarunck/Sri-Raju-Fonts" target="_blank">

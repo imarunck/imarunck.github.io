@@ -19,7 +19,7 @@ title: blog.arunck.com # the main title
 tagline: I write to forget and to remember. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A Blog By Arun C Kallappanavar.
+  A Blog By Arun CK.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://imarunck.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Arun C Kallappanavar
+  name: Arun CK
   email: info@arunck.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

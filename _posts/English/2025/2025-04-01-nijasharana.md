@@ -10,7 +10,7 @@ image: /assets/images/nijasharana.jpg
 ## [nijasharana.com](https://nijasharana.com/) – A Tribute to Ambigara Chowdayya
 Hello everyone,
 
-I’m **Arun C Kallappanavar**, and I’m excited to share with you the journey of creating [**nijasharana.com**](https://nijasharana.com/), a dedicated website that celebrates and archives the life, vachanas, and values of **Vachanakaara Nijasharana Ambigara Chowdayya**.
+I’m **Arun CK**, and I’m excited to share with you the journey of creating [**nijasharana.com**](https://nijasharana.com/), a dedicated website that celebrates and archives the life, vachanas, and values of **Vachanakaara Nijasharana Ambigara Chowdayya**.
 
 This project was born out of respect for his revolutionary thoughts, deep wisdom, and social vision. Below is a timeline that explains how it all came together:
 
