@@ -124,16 +124,36 @@
 
   {% include metadata-hook.html %}
 
-  <!-- OneSignal Push Notifications -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>
-  window.OneSignalDeferred = window.OneSignalDeferred || [];
-  OneSignalDeferred.push(async function(OneSignal) {
-    await OneSignal.init({
-      appId: "0d08cc9d-dacf-48e1-86ab-f4967d5b515d",
+<!-- OneSignal Push Notifications -->
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(async function(OneSignal) {
+      await OneSignal.init({
+        appId: "0d08cc9d-dacf-48e1-86ab-f4967d5b515d",
+        promptOptions: {
+          actionMessage: "Good reads, no spam. Subscribe to notifications!",
+          acceptButtonText: "Subscribe",
+          cancelButtonText: "No thanks"
+        }
+      });
     });
-  });
-</script>
+  </script>
+
+  <!-- PWA Fix: Remove old service workers to prevent looping popup -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(registrations => {
+        for (let registration of registrations) {
+          registration.unregister();
+        }
+      });
+    }
+  </script>
+
+  <!-- Optional: Keep your Chirpy theme JS -->
+  <script src="/assets/js/dist/theme.min.js"></script>
+
 
 
 </head>
