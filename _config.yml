@@ -1,11 +1,12 @@
 # The Site Configuration
 
 pwa:
-  enabled: true
+  enabled: true       # keep PWA enabled
   cache:
-    enabled: true
-    deny_paths: []
-    show_update_popup: false  # <-- add this line
+    enabled: true     # keep offline caching
+    deny_paths: []    # optional, leave empty
+    show_update_popup: false   # <-- this disables the "new version" popup
+
 
 
 
