@@ -1,5 +1,13 @@
 # The Site Configuration
 
+pwa:
+  enabled: true       # keep your PWA enabled
+  cache:
+    enabled: true     # keep offline caching
+    deny_paths: []    # optional, leave empty if you want
+    show_update_popup: false  # <-- add this line to disable "new version" popup
+
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
