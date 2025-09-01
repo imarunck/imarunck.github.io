@@ -5,7 +5,7 @@ pwa:
   cache:
     enabled: true
     deny_paths: []
-    show_update_popup: false   # <-- only this line needed
+    show_update_popup: false  # <-- add this line
 
 
 

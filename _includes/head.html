@@ -125,16 +125,7 @@
   {% include metadata-hook.html %}
 
 <!-- OneSignal Push Notifications -->
-<script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.getRegistrations().then(registrations => {
-      for (let registration of registrations) {
-        registration.unregister();
-      }
-    });
-  }
-</script>
-
+<!-- OneSignal Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
@@ -142,6 +133,7 @@
     await OneSignal.init({
       appId: "0d08cc9d-dacf-48e1-86ab-f4967d5b515d",
       promptOptions: {
+        /* Custom message for the prompt */
         actionMessage: "Good reads, no spam. Subscribe to notifications!",
         acceptButtonText: "Subscribe",
         cancelButtonText: "No thanks"
@@ -149,6 +141,7 @@
     });
   });
 </script>
+
 
 
 
