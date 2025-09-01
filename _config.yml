@@ -1,11 +1,12 @@
 # The Site Configuration
 
 pwa:
-  enabled: true       # keep your PWA enabled
+  enabled: true
   cache:
-    enabled: true     # keep offline caching
-    deny_paths: []    # optional, leave empty if you want
-    show_update_popup: false  # <-- add this line to disable "new version" popup
+    enabled: true
+    deny_paths: []
+    show_update_popup: false   # <-- only this line needed
+
 
 
 # Import the theme
