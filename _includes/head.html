@@ -127,24 +127,6 @@
 
   {% include metadata-hook.html %}
 
-<!-- OneSignal Push Notifications -->
-<!-- OneSignal Push Notifications -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>
-  window.OneSignalDeferred = window.OneSignalDeferred || [];
-  OneSignalDeferred.push(async function(OneSignal) {
-    await OneSignal.init({
-      appId: "0d08cc9d-dacf-48e1-86ab-f4967d5b515d",
-      promptOptions: {
-        /* Custom message for the prompt */
-        actionMessage: "Good reads, no spam. Subscribe to notifications!",
-        acceptButtonText: "Subscribe",
-        cancelButtonText: "No thanks"
-      }
-    });
-  });
-</script>
-
 
 
 

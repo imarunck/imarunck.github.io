@@ -5,7 +5,7 @@ pwa:
   cache:
     enabled: true     # keep offline caching
     deny_paths: []    # optional, leave empty
-    show_update_popup: false   # <-- this disables the "new version" popup
+    show_update_popup: true   # <-- this disables the "new version" popup
 
 
 
