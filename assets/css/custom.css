@@ -1,0 +1,4 @@
+/* Hide Chirpy PWA "A new version of content is available" toast */
+#notification {
+  display: none !important;
+}
