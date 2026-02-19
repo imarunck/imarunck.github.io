@@ -7,6 +7,11 @@ author: arun
 image: /assets/images/reserve.jpg
 tag: poem
 ---
+## You reserve one in every thousand thoughts of my day.
+
+I have not met you in a year,<br>
+not called you in a year,<br>
+not even texted you in a year.<br>
 
 Why are you still there?<br>
 When will this chain end?<br>
